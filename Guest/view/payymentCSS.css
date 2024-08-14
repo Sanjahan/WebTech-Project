@@ -1,0 +1,48 @@
+p{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.payment{
+    background-color: rgb(224, 241, 253);
+    padding: 15px;
+}
+
+.payment tr{
+    font-size: 25px;
+    padding: 10px;
+}
+
+.payment button{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    width: 15%;
+    background-color: #09a001;
+    color: #fff1f1;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    width: 5%;
+    background-color: #ea7070;
+    color: #fff1f1;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #fff1f1;
+}

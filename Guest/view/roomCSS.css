@@ -1,0 +1,47 @@
+.showForm{
+    background-color: rgb(196, 205, 212);
+    padding: 15px;
+}
+
+.showForm h1{    
+    color: #001dbe;
+    font-size: 50px;
+}
+
+.showForm p{
+    font-size: 25px;
+}
+
+
+.showForm button{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    width: 10%;
+    background-color: #248800;
+    color: #fff1f1;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+button{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    width: 5%;
+    background-color: #ea7070;
+    color: #fff1f1;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #fff1f1;
+}
